@@ -1,1 +1,1 @@
-# visual_studio_gallery
+The rpository which includes visual studio gallery files and projects
